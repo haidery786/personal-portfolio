@@ -8,8 +8,8 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I work with a wide range of modern and enterprise technologies across the full software development life cycle. My toolkit includes Microsoft .NET platforms, frontend JavaScript frameworks, cloud services, databases, 
+      and CI/CD tools to build secure and scalable applications.
     </SectionText>
     <List>
       <ListItem>
@@ -19,8 +19,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            AngularJS (1.x), Angular 2–16, ReactJS, Vue.js, TypeScript, JavaScript, HTML5,
+            CSS3, Tailwind CSS, Bootstrap 4, Angular Material, jQuery, AJAX,
+            Jasmine, Karma, Cypress, automated testing strategies
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,8 +32,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Experienced in architecting enterprise backend solutions using .NET Core, ASP.NET, Node.js, and REST APIs, with integration to SQL Server, Oracle, Firebase, Azure, and AWS. I deliver production-ready, maintainable, 
+            and secure backend systems for complex applications.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,8 +44,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            I use Figma, Adobe XD, and other design tools to translate ideas into interactive, visually appealing interfaces that are both functional and engaging.
           </ListParagraph>
         </ListContainer>
       </ListItem>
